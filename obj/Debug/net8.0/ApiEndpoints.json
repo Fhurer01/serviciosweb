@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Seguridad.Controllers.TokenController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/Token/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Seguridad.Controllers.UserDescription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
