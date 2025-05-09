@@ -34,3 +34,4 @@ C:\Users\Heiber\source\repos\Seguridad\Seguridad\obj\Debug\net8.0\refint\Segurid
 C:\Users\Heiber\source\repos\Seguridad\Seguridad\obj\Debug\net8.0\Seguridad.pdb
 C:\Users\Heiber\source\repos\Seguridad\Seguridad\obj\Debug\net8.0\Seguridad.genruntimeconfig.cache
 C:\Users\Heiber\source\repos\Seguridad\Seguridad\obj\Debug\net8.0\ref\Seguridad.dll
+C:\Users\Heiber\source\repos\Seguridad\Seguridad\obj\Debug\net8.0\Seguridad.sourcelink.json
